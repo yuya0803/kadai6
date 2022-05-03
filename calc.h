@@ -1,8 +1,8 @@
-#ifndef _CALC6_H_
-#define _CALC6_H_
+#ifndef _CALC_H_
+#define _CALC_H_
 
 double newton(int, int);
 
 double nibun(int, int);
 
-#endif // _CALC6_H_
+#endif // _CALC_H_

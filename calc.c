@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "../include/calc6.h"
+#include "calc.h"
 
 double newton(int i, int N)
 {
